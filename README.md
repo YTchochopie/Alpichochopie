@@ -48,7 +48,4 @@ Powered by **WebSocket technology**, Baileys enables real-time interaction with 
 You can install Baileys via npm using the custom maintained build:
 
 ```bash 
-npm install @whiskeysockets/baileys@github:YTchochopie/Alpichochopie```
-
-```bash 
-npm install @whiskeysockets/baileys@github:YTchochopie/Alpichochopie```
+npm install @whiskeysockets/baileys@github:YTchochopie/Alpichochopie
