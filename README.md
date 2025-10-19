@@ -1,7 +1,7 @@
-# 🟢 WhatsApp Baileys — by Alpie
+# 🟢 WhatsApp Baileys by Alpie
 
 <p align="center">
-  <img src="https://files.catbox.moe/srgbna.png" alt="Baileys Thumbnail" width="480"/>
+  <img src="https://files.catbox.moe/wnfjax.jpg" alt="Baileys Thumbnail" width="480"/>
 </p>
 
 <p align="center">
